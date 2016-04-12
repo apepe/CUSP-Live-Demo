@@ -1,4 +1,5 @@
 untitled.html
 You_probably_haven_t_heard__.html
 Neutra_tousled_man_bun_art__.html
+cusp.tex
 div_Meditation_brooklyn_meh_neutra__.html
